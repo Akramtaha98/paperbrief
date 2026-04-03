@@ -1,3 +1,4 @@
+![alt text](<Screenshot 2026-04-03 at 10.20.18 PM.png>)
 # PaperBrief
 
 AI-powered research paper summarizer. Paste text or upload a PDF and get a structured summary in seconds — powered by Google Gemini 1.5 Flash.
